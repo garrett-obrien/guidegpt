@@ -45,5 +45,12 @@ URLS = [
 # Build the document corpus
 DOCS = [fixieai.DocumentCorpus(urls=URLS)]
 
-# Assemble the agent
-agent = fixieai.CodeShotAgent(BASE_PROMPT, FEW_SHOTS, DOCS)
+# Assemble the agent, model specifics at 
+# https://docs.fixie.ai/agents/#default-agent-model-and-model-parameters
+agent = fixieai.CodeShotAgent(
+    BASE_PROMPT, 
+    FEW_SHOTS, 
+    DOCS, 
+    conversational=True, 
+    llm_settings=fixieai.LlmSettings(temperature=0, model="openai/gpt-3.5-turbo", maximum_tokens=1000)
+)
