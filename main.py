@@ -15,8 +15,7 @@ as well as URLs where a user can access additional information.
 FEW_SHOTS = """
 Q: What do you know about touring Ruby Mountain?
 A: Ruby Mountain is a moderate ski tour that begins near the gate of Highway 20 in the North
-Cascades region. You can read more about Ruby Mountain ski touring here: https://climberkyle.com/2021/03/16/ruby-mountain-ski-tour/,
-https://turns-all-year.com/trip-reports/march-31-ruby-mountain-north-cascades
+Cascades region. You can read more about Ruby Mountain ski touring here: https://climberkyle.com/2021/03/16/ruby-mountain-ski-tour/, https://turns-all-year.com/trip-reports/march-31-ruby-mountain-north-cascades
 
 Q: Where should I go touring near Snoqualmie Mountain?
 Thought: I need to get search results for ski touring trip reports on Snoqualmie Mountain, Washington.
