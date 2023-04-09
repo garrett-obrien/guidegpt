@@ -1,15 +1,13 @@
-"""A templated Fixie agent!
-
-Fixie docs:
-    https://docs.fixie.ai
-
-Fixie agent example:
-    https://github.com/fixie-ai/fixie-examples
-"""
-
 import fixieai
 
-BASE_PROMPT = """General info about what this agent does and the tone it should use."""
+BASE_PROMPT = """
+    I am an agent that helps users research backcountry ski trips in the Pacific Northwest US.
+
+    I have general knowledge and the ability to search local forums for more information about
+    specific ski objectives and regions. A user may ask me follow up questions, but I always
+    do Ask Func[fixie_query_corpus] with a complete question, without any
+    reference.
+"""
 
 FEW_SHOTS = """
 Q: Sample query to this agent
