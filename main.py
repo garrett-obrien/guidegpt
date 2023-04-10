@@ -16,7 +16,6 @@ FEW_SHOTS = """
 Q: What do you know about touring Ruby Mountain?
 A: Ruby Mountain is a moderate ski tour that begins near the gate of Highway 20 in the North
 Cascades region. You can read more about Ruby Mountain ski touring here: https://turns-all-year.com/trip-reports/march-31-ruby-mountain-north-cascades
-
 """
 
 # List of PNW forums/blogs/etc. to use in the doc corpus

@@ -5,4 +5,4 @@ tests:
     expected: The response should mention "Fuhrer Finger".
 more_info_url: https://github.com/garrett-obrien/fixie-guidegpt
 entry_point: main:agent
-public: false
+public: true
