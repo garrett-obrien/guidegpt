@@ -53,5 +53,5 @@ agent = fixieai.CodeShotAgent(
     CORPORA,
     conversational=True,
     llm_settings=fixieai.LlmSettings(
-        temperature=0, model="openai/gpt-3.5-turbo", maximum_tokens=1000)
+        temperature=0, model="openai/gpt-3.5-turbo", maximum_tokens=2000)
 )
