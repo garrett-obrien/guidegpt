@@ -1,8 +1,12 @@
+# Update this to your private agent handle e.g. 'guidegpt-private'
 handle: guidegpt
+
 description: A fixie agent for searching PNW backcountry skiing forums.
 tests:
   - query: What are the ski routes on Mt. Rainier?
     expected: The response should mention "Fuhrer Finger".
 more_info_url: https://github.com/garrett-obrien/fixie-guidegpt
 entry_point: main:agent
+
+# Change this to private to avoid creating multiple public copies of the same agent
 public: true
