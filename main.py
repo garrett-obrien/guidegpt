@@ -42,8 +42,8 @@ URLS = [
     "https://climberkyle.com/2021/*",
     "https://climberkyle.com/2022/*", 
     "https://climberkyle.com/2023/*" 
-    "https://engineeredforadventure.com/*"
-    ""
+    "https://engineeredforadventure.com/*", 
+    "https://www.whereiskylemiller.com/*", 
 ]
 
 # Build the document corpus
