@@ -1,11 +1,19 @@
 # GuideGPT
-A tool for searching mountain trip reports using LLMs, deployed using fixieai.
+
+An agent for searching mountain trip reports using LLMs, deployed using fixieai.
 
 Consults local PNW forums, blogs, and general knowledge about backcountry skiing. Sometimes hallucinates, use at your own risk.
 
-## Getting started
+## Using the agent
 
-To get started:
+To use the currently deployed GuideGPT agent:
+
+1. Create an account at app.fixie.com
+2. Start a new session with the agent at https://app.fixie.ai/agents/g.thomasobrien/guidegpt
+
+## Creating your own GuideGPT agent
+
+To deploy a copy of the agent to your own Fixie account:
 
 1. Clone the repo
 2. `cd` into the directory
