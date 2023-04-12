@@ -1,7 +1,7 @@
 # GuideGPT
-A tool for exploring mountain trip reports using LLMs, deployed using fixieai.
+A tool for searching mountain trip reports using LLMs, deployed using fixieai.
 
-Consults local PNW forums, blogs, and general knowledge about backcountry skiing.
+Consults local PNW forums, blogs, and general knowledge about backcountry skiing. Sometimes hallucinates.
 
 ## Getting started
 
