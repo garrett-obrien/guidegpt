@@ -30,3 +30,4 @@ Fixie docs: https://docs.fixie.ai/
 1. Improve prompt to stop hallucinating URLs
 2. Add TAY trip reports once XML site crawling is supported in `fixieai.DocumentCorpus`
 3. Add additional PNW ski blogs/forums to document corpus
+4. Test if more powerful models improve search results (once parsing issues are fixed)
